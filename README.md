@@ -35,3 +35,4 @@
  - Android:[https://www.pgyer.com/YiChatLite](https://www.pgyer.com/YiChatLite)
  - iOS:[https://www.pgyer.com/9sVQ](https://www.pgyer.com/9sVQ)
 
+##QQ:84543217 (技术相关请提交Issus,商务合作可联系QQ)
